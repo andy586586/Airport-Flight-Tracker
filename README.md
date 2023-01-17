@@ -1,6 +1,3 @@
 # Airport-Flight-Tracker
-The website failed : ( 
 
-I realized I don't have enough skills to build this project, but I am still working towards it. CHheck back soon for it! 
-
-Sorry guys
+This site is under construction! I've been a bit busy with school and work lately. Check back soon to see any updates I'll post. Thanks for your patience!
